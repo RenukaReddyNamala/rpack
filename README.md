@@ -1,4 +1,4 @@
-We are excited to announce the release of GenoMagic, a new R package designed to empower researchers and clinicians working with genomic data. Developed by Renuka Reddy Namala, GenoMagic is a comprehensive toolkit that integrates seamlessly with the Bioconductor project, leveraging robust packages such as Biostrings and GenomicRanges to offer a broad spectrum of genomic data manipulation and analysis capabilities.
+I am excited to announce the release of GenoMagic, a new R package designed to empower researchers and clinicians working with genomic data. Developed by Renuka Reddy Namala, GenoMagic is a comprehensive toolkit that integrates seamlessly with the Bioconductor project, leveraging robust packages such as Biostrings and GenomicRanges to offer a broad spectrum of genomic data manipulation and analysis capabilities.
 
 Key Features of GenoMagic:
 Sequence Analysis: GenoMagic offers tools to analyze DNA sequences effectively, providing insights into sequence characteristics like length and GC content.
